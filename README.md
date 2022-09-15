@@ -6,6 +6,6 @@ You need to create an personal access token at signalwire instructions can be fo
 
 once done
 
-$ docker build -f  dockerfile . --build-arg TOKEN=!!!!yoursibnalwiretokenhere!!!
+$ docker build -f  dockerfile . --build-arg TOKEN=!!!!yoursignalwiretokenhere!!!
 
 After this, grab a beer or coffee as it will be a loooong wait. (I've set up mine on a kvm machine and took ages. -like 20 minutes)
